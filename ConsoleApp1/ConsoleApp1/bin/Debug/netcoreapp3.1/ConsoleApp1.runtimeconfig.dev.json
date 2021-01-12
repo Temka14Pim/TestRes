@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Temka14Pim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Temka14Pim\\.nuget\\packages"
+    ]
+  }
+}
